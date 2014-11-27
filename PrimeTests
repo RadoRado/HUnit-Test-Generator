@@ -1,0 +1,4 @@
+import Prime
+"2 should be prime" -> isPrime 2 == True
+"4 should not be prime" -> isPrime 4 == False
+"7 should be prime" -> isPrime 7 == True
